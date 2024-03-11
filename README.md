@@ -1,6 +1,6 @@
 
 ### Hi there 👋, Harsha this side 👨🏻‍💻 <img align="right" src="https://komarev.com/ghpvc/?username=Harsha97052&color=green" alt="Harsha"/> 
-![header](https://github.com/Harsha97052/Harsha/blob/5ddd7b8d4c31455a86a472bc11e146ab66e7bef9/Untitled%20design.png)
+![header](https://github.com/Harsha97052/Harsha97052/blob/6cd04053c902e05c3b4d771a389b6264d5f9aa2f/Harsha%20Cover%20Page.png)
 
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
 - 👯 Open to collaborate on open-source Projects 🤗
