@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Harsha97052/Harsha97052/blob/250510186539bc712d95b42bc3b2b0690ee33630/Harsha_Cover.png)]()
+[![MasterHead](https://github.com/Harsha97052/Harsha97052/blob/90b90b46ca47c866832f66776e099d1de1ef1a67/Harsha_Cover.png)]()
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">Aspiring Data Analyst | Analyzing Complex Data for Strategic Insights</h3>
 <img align="right" alt="Analysis" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
