@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Data Analyst | Analyzing Complex Data for Strategic Insights</h3>
 <img align="right" alt="Analysis" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshasaim&label=Profile%20views&color=0e75b6&style=flat" alt="harshasaim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsha97052&label=Profile%20views&color=0e75b6&style=flat" alt="Harsha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/madisettyharsha" target="blank"><img src="https://img.shields.io/twitter/follow/madisettyharsha?logo=twitter&style=for-the-badge" alt="madisettyharsha" /></a> </p>
 
@@ -22,10 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/madisettyharsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madisettyharsha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sai-sree-harsha-madisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-sree-harsha-madisetty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sai-sree-harsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-sree-harsha-madisetty" height="30" width="40" /></a>
 <a href="https://instagram.com/name_is__harsha_ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="name_is_harsha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harsdharsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harsdharsha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshasaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshasaim" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harsdharsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshasaim" height="30" width="40" /></a>
 </p>
 
 ### Languages & Tools Worked On 👨🏻‍💻
@@ -39,8 +39,8 @@
 <code><img height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://cdn-icons-png.flaticon.com/128/919/919826.png"></code><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshasaim&show_icons=true&locale=en&layout=compact" alt="harshasaim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha97052&show_icons=true&locale=en&layout=compact" alt="harsha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshasaim&show_icons=true&locale=en" alt="harshasaim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsha97052&show_icons=true&locale=en" alt="harsha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshasaim&" alt="harshasaim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha97052&" alt="harsha" /></p>
