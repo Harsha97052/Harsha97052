@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Excel, mySQL, Python, Power BI**
 
-- 📫 How to reach me **madisettysaisreeharsha@gmail.com**
+- 📫 How to reach me **harsdharsha@gmail.com**
 
 - 🤗 Love to make new connections 👫🐥
 
